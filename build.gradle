@@ -26,7 +26,6 @@ android {
 
 dependencies {
     implementation 'com.android.support:design:27.1.1'
-    implementation 'com.github.jitpack:gradle-simple:1.0'
 }
 
 
